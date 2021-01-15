@@ -1,0 +1,32 @@
+* {
+  background-color: lightgray;
+  background-image: url("https://www.transparenttextures.com/patterns/fresh-snow.png");
+}
+
+.feild {
+  width: 20% !important;
+  display: flex !important;
+  text-align: center !important;
+  /* margin-left: 620px; */
+  margin: auto !important;
+}
+form {
+  height: auto;
+  width: 100%;
+  text-align: center;
+  margin-top: 10%;
+  display: block;
+}
+.form-button {
+  margin-top: 10px;
+}
+.form-text {
+  font-weight: 800;
+  font-size: 50px !important;
+  font-family: "helvetica neue";
+}
+.weather {
+  text-align: center;
+  font-family: "helvetica neue";
+  
+}
